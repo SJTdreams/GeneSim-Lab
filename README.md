@@ -2,7 +2,8 @@
 
   [TOC]
 
-
+exe版lanzouyun链接：https://wwts.lanzoub.com/iCREO2ocrsyd
+密码:4xb6
   ## 🌱 程序简介
 
   这是一个用于模拟遗传规律的互动程序，可以帮助你：
